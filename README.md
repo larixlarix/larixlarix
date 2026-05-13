@@ -19,9 +19,9 @@ Mathematician with experience in software development, machine learning and comp
 Python · numpy · scipy · pandas · pytorch · tensorflow · opencv · C++ · Matlab
 
 ## Selected projects
-- NeuroTouch: ML for realtime evaluation of PCAP sensor data on large touchscreens @InteractiveScape
-- Advent of Code 2025: side project as to answer a challenge of my colleague 
-- Data Science Projects at Spiced Academy and TU Berlin
+- NeuroTouch: ML for realtime evaluation of PCAP sensor data on large touchscreens @[InteractiveScape](https://www.interactive-scape.com/)
+- Advent of Code 2025: side project as to answer a challenge of my colleague [eqbic](https://github.com/eqbic)
+- Data Science and Coding Projects at Spiced Academy and TU Berlin
 
 <!--
 **larixlarix/larixlarix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
