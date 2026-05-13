@@ -3,7 +3,6 @@
 Mathematician with experience in software development, machine learning and computer vision. Based in Berlin, Germany.
 
 ## Interests
-- Python
 - Mathematical modelling
 - Machine Learning
 - Computer Vision
@@ -20,7 +19,8 @@ Python · numpy · scipy · pandas · pytorch · tensorflow · opencv · C++ · 
 
 ## Selected projects
 - NeuroTouch: ML for realtime evaluation of PCAP sensor data on large touchscreens @[InteractiveScape](https://www.interactive-scape.com/)
-- Advent of Code 2025: side project as to answer a challenge of my colleague [eqbic](https://github.com/eqbic)
+- Advent of Code 2025: mini side project as to answer a challenge of my colleague [eqbic](https://github.com/eqbic)
+- Mantigo GB Edition: porting [MantiGo](https://github.com/JoNiederhut/manti_go/) to GameBoy Color using [GBStudio](https://www.gbstudio.dev/), making it playable on actual hardware
 - Data Science and Coding Projects at Spiced Academy and TU Berlin
 
 <!--
